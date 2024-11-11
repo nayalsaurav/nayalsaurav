@@ -2,7 +2,7 @@
 👋 Hi, I’m @nayalsaurav
 💻 I'm curentely learning dsa with c++ and MERN stack
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/nayalsaurav?theme=dark&font=Ubuntu)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nayalsaurav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saurav_nayal) 
 
