@@ -17,6 +17,8 @@
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/nayalsaurav)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayalsaurav@gmail.com)
 
+## 📌 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/nayalsaurav?theme=radical&font=Recursive&ext=heatmap)
 
 ## 🛠 Tech Stack:
 
@@ -43,7 +45,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-
 ## 📊 GitHub Stats:
 <br>
 <table>
@@ -63,6 +64,13 @@
 </table>
 
 <br>
-🚀 **_Always Learning | Always Building | Always Growing!_** 🚀  
-
+<p style="font-size: 1.5rem; font-weight: bold; text-align: center; font-family: 'Poppins', sans-serif; color: #ff6b6b; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">
+  🚀 <span style="color: #feca57; background: linear-gradient(90deg, #ff9ff3, #feca57); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  ✨ Always Learning</span> |  
+  <span style="color: #feca57; background: linear-gradient(90deg, #ff9ff3, #feca57); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  🏗️ Always Building</span> |  
+  <span style="color: #feca57; background: linear-gradient(90deg, #ff9ff3, #feca57); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+  🚀 Always Growing!</span> 🚀
+</p>
 </div>
+
