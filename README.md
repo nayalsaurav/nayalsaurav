@@ -7,7 +7,7 @@
 
 ## 💡 About Me:
 👋 Hi, I'm **Saurav Nayal**, a **Full Stack Developer** passionate about crafting efficient and user-friendly applications.  
-💻 **B.Tech CSE (3rd Year)** | Actively exploring **Web Development & AI-driven applications**.  
+💻 **B.Tech CSE (Final Year)** | Actively exploring **Web Development & AI-driven applications**.  
 🏆 Love solving **DSA problems with C++** and competing in **coding challenges & hackathons**.  
 💬 Open to **collaborations, open-source contributions & exciting tech discussions!**  
 
