@@ -6,7 +6,7 @@ I design, build, break, rebuild — and ship whatever I can imagine.
 
 If an idea pops into my head, there’s a high chance I’ll turn it into a full-stack project by the end of the week.
 
-My main tech stack is **Next.js, TypeScript, Tailwind CSS, Prisma, MongoDB, and shadcn/ui**.  
+My main tech stack is **Next.js, TypeScript, Tailwind CSS, Prisma, postgresql, and shadcn/ui**.  
 My favorite tools are **VS Code, GitHub, and Vercel**.
 
 I’ve got a bunch of pinned projects, but my favorites are:  
