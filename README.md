@@ -26,7 +26,7 @@ but behind the scenes? **100+ experiments, prototypes, and unfinished arcs** �
 
 ### 🌐 My Base
 If you want to see what I’m currently cooking, visit  
-👉 **[nayalsaurav.tech](https://nayalsaurav.tech)**
+👉 **[nayalsaurav.in](https://nayalsaurav.in)**
 
 ---
 
