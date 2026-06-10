@@ -1,29 +1,27 @@
-<p align="center">
-  <img
-    src="https://res.cloudinary.com/dcoqmeswp/image/upload/v1769169466/ahqodojfqtdl4ucezmpa.gif"
-    alt="anime wave"
-  />
-</p>
+### Hi, I'm Saurav 👋
 
-## 👋 Hi, I’m Saurav Nayal
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=38BDF8&width=440&lines=Software+Developer;Full-Stack+Engineer;I+build+things+that+ship" />
-<p>
-  <a href="https://nayalsaurav.in">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel" />
-  </a>
-  <a href="https://drive.google.com/file/d/1WTqqk7Nc6llOvqYI0rE4AmMovnDoUwmj/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-Download-green?style=flat&logo=readthedocs" />
-  </a>
-</p>
+Backend & full-stack developer. I build things that ship fast and hold up under load.
 
-I take ideas through the full arc —  
-**design → build → break → rebuild → ship** — until they’re production-ready ⚡
+- 🔧 Working with Node.js, TypeScript, PostgreSQL, Redis, Docker
+- 🚀 Currently: [Kairox Analytics](https://github.com/sauravnayal/kairox) · [Launchdrop](https://github.com/sauravnayal/deploy-my-app)
+- 🏆 TCS CodeVita Global Rank 1341 · LeetCode 1708 (top 12.5%)
+- 📬 Open to SDE / backend roles — [nayalsaurav@gmail.com](mailto:nayalsaurav@gmail.com)
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-</p>
+---
 
+**Stack**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+---
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-nayalsaurav.in-0a66c2?style=flat-square)](https://nayalsaurav.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sauravnayal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/sauravnayal)
